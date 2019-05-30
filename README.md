@@ -1,6 +1,2 @@
 # Policy-Bazaar-Clone-Script-
-Best Policy Bazaar Clone Php Script and Custom Solutions to create your own Insurance Policies Website with unique features and complete functionality
-UNIQUE FEATURES
-User panel
-Admin panel
-SUPER ADMIN PANEL
+Best Policy Bazaar Clone Php Script and Custom Solutions to make your own Insurance Policies web site with distinctive options and complete practicality Our offer Policy Bazaar web site that options product from all major Insurance corporations in Republic of India, and that they assist you compare varied insurance plans and slim down on the insurance that most accurately fits your desires and so facilitate on-line purchase of insurance in life assurance and non-life insurance classes. All you would like to try to to is sort the relevant details touching on the kind of insurance you're searching for, such as, life/non-life insurance. Once you are doing thus, primarily based your details it offers you a close comparison of all the insurance plans out there, in Associate in Nursing easily-readable format.
